@@ -1,3 +1,9 @@
+---
+name: termux-api
+description: |
+  Control Android devices via Termux API over SSH. Access camera, sensors, location, notifications, SMS, clipboard, TTS, and 70+ other device APIs. Requires Termux and Termux:API installed on the Android device.
+---
+
 # Termux API Skill
 
 Control Android devices via Termux API commands over SSH.
