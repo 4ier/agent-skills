@@ -23,6 +23,7 @@ npx skills add 4ier/agent-skills -a claude-code
 | Skill | Description |
 |-------|-------------|
 | [offload2](skills/offload2) | Cognitive pressure release valve for agent execution |
+| [offline-study-pack](skills/offline-study-pack) | Build an offline Q&A study compendium (电子书) about a codebase's real external integrations, with downloaded primary sources and fact-checked chapters |
 
 ## License
 
